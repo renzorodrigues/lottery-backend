@@ -1,4 +1,5 @@
-/obj
-/bin
+lotteryBack/obj
+lotteryBack/bin
+lotteryBackTests/obj
 .vscode
 lottery.db
