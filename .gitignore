@@ -1,5 +1,6 @@
 lotteryBack/obj
 lotteryBack/bin
 lotteryBackTests/obj
+lotteryBackTests/bin
 .vscode
 lottery.db
